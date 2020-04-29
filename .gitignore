@@ -1,0 +1,3 @@
+# ignore the database file(s):
+*.db
+migrations/
